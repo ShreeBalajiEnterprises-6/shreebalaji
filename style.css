@@ -250,7 +250,7 @@ section h2 {
     label #btn{
         left: 25px;
         top: 30px;
-        font-size: 30px;
+        font-size: 25px;
         color: white;
         padding: 3px 3px;
     }
@@ -290,10 +290,10 @@ section h2 {
     .centerdiv {
         position: absolute;
         bottom: 5%;
-        left: 45%;
+        left: 50%;
         transform: translate(-50%,-50%);
         color:black;
-        font-size: 10px;
+        font-size: 15px;
     }
     .centerdiv a{
         margin-left: 10px;
