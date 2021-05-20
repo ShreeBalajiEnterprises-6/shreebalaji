@@ -25,7 +25,7 @@ body {
     text-align:center;
     line-height: 130px;
     background:  #042331;
-    
+   
     user-select: none;
 }
 
@@ -209,9 +209,9 @@ section h2 {
         font-family: "impact";
         color:red;
         text-align:center;
-        line-height: 40px;
+        line-height: 30px;
         background:  #042331;
-        
+        margin-top: 20%
         user-select: none;
     }
     
